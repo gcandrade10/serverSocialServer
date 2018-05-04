@@ -15,6 +15,8 @@ npm install
 
 npm start
 
+```
+
 ### Uso
 
 Cuando esté corriendo se abrirá tu navegador en la url: http://localhost:9797/
@@ -26,5 +28,6 @@ Por ejemplo en windows puede consultar tu ip así:
 
 ```
 ipconfig
+```
 
 Buscas la interfaz de red (Ethernet o wifi) que estés usando y listo
