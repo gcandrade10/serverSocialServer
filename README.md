@@ -34,5 +34,5 @@ Buscas la interfaz de red (Ethernet o wifi) que estés usando y listo
 
 Capturas:
 
-(https://github.com/gcandrade10/serverSocialServer/blob/master/capturas/Capture.PNG)
-(https://github.com/gcandrade10/serverSocialServer/blob/master/capturas/Capture1.PNG)
+![alt text](https://github.com/gcandrade10/serverSocialServer/blob/master/capturas/Capture.PNG)
+![alt text](https://github.com/gcandrade10/serverSocialServer/blob/master/capturas/Capture1.PNG)
